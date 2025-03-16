@@ -1,0 +1,15 @@
+## Interface: 110000
+## Version: @project-version@
+## Title: FrameColor AddOnSkins
+## Author: Slothpala
+## Dependencies: FrameColor
+## IconTexture: Interface\AddOns\FrameColor\Assets\SecondaryIcon.tga
+
+embeds.xml
+
+Init.lua
+
+Skins\Skins.xml
+
+FrameColorAddOnSkins.lua
+
