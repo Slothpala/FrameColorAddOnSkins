@@ -1,3 +1,4 @@
+## X-Curse-Project-ID: 1220160
 ## Interface: 110000
 ## Version: @project-version@
 ## Title: FrameColor AddOnSkins
