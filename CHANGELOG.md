@@ -1,4 +1,11 @@
 # **Changelog**
+## Version [1.1.1] - 2026-20-23
+#### Updated
+* Interface version to 120000.
+
+#### Removed
+* Removed the WeakAurasOptions skin.
+
 ## Version [1.1.0] - 2025-09-01
 #### Added
 * New Skin: _WorldQuestTab.
