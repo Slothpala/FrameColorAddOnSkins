@@ -1,4 +1,8 @@
 # **Changelog**
+## Version [1.1.3] - 2026-08-09
+#### Updated
+* Interface version to 120100.
+
 ## Version [1.1.2] - 2026-06-21
 #### Updated
 * Interface version to 120007.
